@@ -6,7 +6,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
         name='django-substitution-user',
-        version='0.1.2',
+        version='0.1.3',
         description='Django substitution user',
         author='Alexey Baranov',
         author_email='atlantij@gmail.com',
