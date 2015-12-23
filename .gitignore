@@ -1,0 +1,13 @@
+/build
+/dist
+__pycache__
+/*.egg-info
+*.pyc
+*.log
+*.egg
+*.db
+*.pid
+pip-log.txt
+.DS_Store
+*swp
+.idea
